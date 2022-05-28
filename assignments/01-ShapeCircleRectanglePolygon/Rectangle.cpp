@@ -19,5 +19,5 @@ int Rectangle::getValueX1()
 
 int Rectangle::getValueY1()
 {
-    return y1;+
+    return y1;
 }
